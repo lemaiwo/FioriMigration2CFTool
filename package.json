@@ -1,0 +1,21 @@
+{
+  "name": "onesap",
+  "version": "1.0.0",
+  "description": "Migration tool for UI5 apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js  zpm_prun_det"
+  },
+  "author": "Wouter Lemaire",
+  "license": "ISC",
+  "devDependencies": {
+    "handlebars": "^4.7.7",
+    "js-yaml": "^4.1.0",
+    "yaml": "^1.10.2"
+  },
+  "dependencies": {
+    "glob": "^7.2.0",
+    "glob-promise": "^4.2.2"
+  }
+}
