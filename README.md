@@ -133,7 +133,7 @@ Distributed under the MIT License. See `LICENSES/MIT.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@wouter_lemaire](https://twitter.com/wouter_lemaire)
+Wouter Lemaire - [@wouter_lemaire](https://twitter.com/wouter_lemaire)
 
 Project Link: [https://github.com/lemaiwo/FioriMigration2CFTool](https://github.com/lemaiwo/FioriMigration2CFTool)
 
