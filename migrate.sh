@@ -19,8 +19,8 @@ do
         exit
     fi
 
-    git_origin="https://git.eu2.hana.ondemand.com/ecdc6fcea/"$git_origin_repo
-    git_destination_server="https://citnet.tech.ec.europa.eu/CITnet/stash/scm/summa/"$git_module_destination'.git'
+    git_origin="https://git.region.hana.ondemand.com/neo-subaccount/"$git_origin_repo
+    git_destination_server="https://github.com/lemaiwo/"$git_module_destination'.git'
 
 
     echo 'Git clone source repo'
